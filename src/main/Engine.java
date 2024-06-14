@@ -11,9 +11,7 @@ public class Engine {
   int position[][] = new int[6][7];
   
   // Constructor:
-  public Engine() {
-    // Nothing...
-  }
+  public Engine() {}
 
   /* ENGINE METHODS */
 
